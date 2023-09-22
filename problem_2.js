@@ -15,7 +15,6 @@ function fiboEvenSum(n) {
             sum += fibValue
         }
     }
-
     return sum
 }
 
